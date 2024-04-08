@@ -3,7 +3,9 @@ layout: post
 title: 一道在知乎很火的 Java 题——如何输出 ab
 categories: Java
 description: 一道在知乎讨论得很火热的 Java 题，网友们的脑洞能给出一些什么样的答案呢？
-keywords: Java
+index_img: /img/post_def.png
+date: 2016-09-20 09:09:09
+tags: [Java]
 ---
 
 这是一个源自知乎的话题，原贴链接：[一道百度的面试题，有大神会嘛？](https://www.zhihu.com/question/50801791)

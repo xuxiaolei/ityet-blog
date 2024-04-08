@@ -3,7 +3,9 @@ layout: post
 title: Maven依赖机制与调节方案
 categories: Maven
 description: Maven进阶指南：依赖机制与调节方案
-keywords: Maven,Java
+index_img: /img/post_def.png
+date:  2021-06-12 09:09:09
+tags: [Maven,Java]
 ---
 Maven由Java语言编写，基于**微内核架构**和**可扩展插件机制**，是一款优秀且成熟的项目管理工具。经过十几年完善和发展，Maven在Java服务端项目管理上已经成为事实上的标准工具。
 

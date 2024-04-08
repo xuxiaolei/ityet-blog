@@ -3,7 +3,9 @@ layout: post
 title: 图解 SQL 里的各种 JOIN
 categories: Database
 description: 用文氏图和示例来理解 SQL 里的各种 JOIN。
-keywords: SQL, Database, 文氏图
+index_img: /img/post_def.png
+date: 2017-09-11 09:09:09
+tags: [SQL, Database, 文氏图]
 ---
 
 从业以来主要在做客户端，用到的数据库都是表结构比较简单的 SQLite，以我那还给老师一大半的 SQL 水平倒也能对付。现在偶尔需要到后台的 SQL Server 里追查一些数据问题，就显得有点捉襟见肘了，特别是各种 JOIN，有时候傻傻分不清楚，于是索性弄明白并做个记录。

@@ -3,7 +3,9 @@ layout: post
 title: Maven中dependencyManagement标签学习
 categories: Java
 description: Maven中dependencyManagement标签学习
-keywords:  Java,pom,dependencyManagement
+index_img: /img/post_def.png
+date: 2019-04-16 09:09:09
+tags: [Java,pom,dependencyManagement]
 ---
 
 当我们的项目模块很多的时候，在我们项目顶层的POM文件中，我们会看到dependencyManagement元素。通过它元素来管理jar包的版本，让子项目中引用一个依赖而不用显示的列出版本号。Maven会沿着父子层次向上走，直到找到一个拥有dependencyManagement元素的项目，然后它就会使用在这个dependencyManagement元素中指定的版本号。

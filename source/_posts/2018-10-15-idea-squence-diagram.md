@@ -3,7 +3,9 @@ layout: post
 title: IntelliJ-IDEA快速生成序列图
 categories: Tools
 description: IntelliJ-IDEA快速生成序列图
-keywords:  tools,idea,skill
+index_img: /img/post_def.png
+date: 2018-10-15 09:09:09
+tags: [tools,idea,skill]
 ---
 
 在平时的学习/工作中，我们会经常面临如下场景：

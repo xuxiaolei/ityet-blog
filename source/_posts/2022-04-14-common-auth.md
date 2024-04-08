@@ -3,7 +3,9 @@ layout: post
 title: 实现集团产品统一认证
 categories: auth
 description: 统一认证
-keywords: auth,Java
+tags: [auth,Java]
+index_img: /img/post_def.png
+date:  2022-04-14 09:09:09
 ---
 一个公司产品矩阵比较丰富的时候，用户在不同系统之间来回切换，固然对产品用户体验上较差，并且增加用户密码管理成本。
 

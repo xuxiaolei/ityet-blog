@@ -1,9 +1,11 @@
 ---
-layout:post 
-title:Transactional碰到锁引发的问题
-categories:Java 
-description:Transactional碰到锁引发的问题
-keywords:Transactional,Java
+layout: post 
+title: Transactional碰到锁引发的问题
+categories: Java 
+description: Transactional碰到锁引发的问题
+index_img: /img/post_def.png
+date: [2022-02-11 09:09:09]
+tags: [Transactional,Java]
 ---
 
 @Transactional涉及到的两个技术点，平时开发使用的也比较多，但是属于一个小细节，深挖下去，还是有点意思的。

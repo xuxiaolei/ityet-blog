@@ -3,7 +3,9 @@ layout: post
 title: Redis多种场景应用
 categories: Redis
 description: 以为redis只能做缓存的话，那就太小看它了
-keywords: Redis
+index_img: /img/post_def.png
+date: 2021-03-30 09:09:09
+tags: [Redis]
 ---
 大多数数据库，由于经常和磁盘打交道，在高并发场景下，响应会非常的慢。为了解决这种速度差异，大多数系统都习惯性的加入一个缓存层，来加速数据的读取。redis由于它优秀的处理能力和丰富的数据结构，已经成为了事实上的分布式缓存标准。
 

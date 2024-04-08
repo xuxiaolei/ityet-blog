@@ -3,7 +3,9 @@ layout: post
 title: C#中相同string的GetHashCode() 值不一样详解
 categories: C#
 description: C#中相同string的GetHashCode() 值不一样详解
-keywords: C#, GetHashCode
+index_img: /img/post_def.png
+date: 2016-07-28 09:09:09
+tags: [C#, GetHashCode]
 ---
 
 近日在开发使用Redis缓存过程中，为了避免缓存的KEY过长的情况，偷懒没用MD5，SHA2等hash算法,

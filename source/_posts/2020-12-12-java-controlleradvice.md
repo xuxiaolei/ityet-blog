@@ -3,7 +3,9 @@ layout: post
 title: SpringMVC 中 @ControllerAdvice 注解的三种使用场景
 categories: Java
 description: SpringMVC 中 @ControllerAdvice 注解的三种使用场景
-keywords: SpringMVC,ControllerAdvice,注解
+index_img: /img/post_def.png
+date: 2020-12-12 09:09:09
+tags: [SpringMVC,ControllerAdvice,注解]
 ---
 
 @ControllerAdvice ，很多人可能都没有听说过这个注解，实际上，这是一个非常有用的注解，顾名思义，这是一个增强的 Controller。使用这个 Controller ，可以实现三个方面的功能：

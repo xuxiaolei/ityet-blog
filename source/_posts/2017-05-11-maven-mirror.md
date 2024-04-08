@@ -3,7 +3,9 @@ layout: post
 title: Maven中配置多个mirror切换
 categories: Java
 description: Maven中配置多个mirror切换
-keywords: Maven
+index_img: /img/post_def.png
+date: 2017-05-11 09:09:09
+tags: [Maven]
 ---
 
 # 前言

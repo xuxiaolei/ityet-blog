@@ -3,7 +3,9 @@ layout: post
 title: git cherry-pick 学习笔记
 categories: Java
 description: git cherry-pick
-keywords:  git,cherry-pick
+index_img: /img/post_def.png
+date: 2019-03-11 09:09:09
+tags: [git,cherry-pick]
 ---
 
 `git cherry-pick`可以理解为”挑拣”提交，它会获取某一个分支的单笔提交，并作为一个新的提交引入到你当前分支上。 当我们需要在本地合入其他分支的提交时，如果我们不想对整个分支进行合并，而是只想将某一次提交合入到本地当前分支上，那么就要使用`git cherry-pick`了。
@@ -54,7 +56,7 @@ hint: and commit the result with 'git commit'
 ```
 $ git commit 
 [branch1 790f431] [Description]:branch2 commit 2
- Date: Fri Jul 13 18:36:44 2018 +0800
+ date: Fri Jul 13 18:36:44 2018 +0800
  1 file changed, 1 insertion(+)
  create mode 100644 only-for-branch2.txt
 ```
@@ -68,7 +70,7 @@ branch2分支上的第二次提交成功合入到了branch1分支上。
 ```
 $ git cherry-pick 23d9422
 [branch1 2c67715] [Description]:branch2 commit 3
- Date: Fri Jul 13 18:37:05 2018 +0800
+ date: Fri Jul 13 18:37:05 2018 +0800
  1 file changed, 1 insertion(+)
 ```
 

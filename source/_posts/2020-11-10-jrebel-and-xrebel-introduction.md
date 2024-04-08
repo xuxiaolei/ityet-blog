@@ -3,7 +3,9 @@ layout: post
 title: Jreble和Xrebel使用学习
 categories: Java
 description: Jreble和Xrebel使用学习
-keywords:  Jreble,Xrebel
+index_img: /img/post_def.png
+date: 2020-11-10 09:09:09
+tags: [Jreble,Xrebel]
 ---
 # 功能概括
 

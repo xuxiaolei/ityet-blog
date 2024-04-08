@@ -3,7 +3,9 @@ layout: post
 title: OkHttp 拦截器应用
 categories: Java
 description: OkHttp 拦截器应用
-keywords: Java,OkHttp,Interceptor
+index_img: /img/post_def.png
+date: 2017-12-17 09:09:09
+tags: [Java,OkHttp,Interceptor]
 ---
 
 1.  URL重定向

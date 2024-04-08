@@ -3,7 +3,9 @@ layout: post
 title: 提高效率的Java代码小技巧
 categories: Java
 description: Java代码小技巧帮你提高开发效率
-keywords:  Java
+index_img: /img/post_def.png
+date: 2018-07-17 09:09:09
+tags: [Java]
 ---
 
 代码优化，一个很重要的课题。可能有些人觉得没用，一些细小的地方有什么好修改的，改与不改对于代码的运行效率有什么影响呢？这个问题我是这么考虑的，就像大海里面的鲸鱼一样，它吃一条小虾米有用吗？没用，但是，吃的小虾米一多之后，鲸鱼就被喂饱了。

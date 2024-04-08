@@ -3,7 +3,9 @@ layout: post
 title: Mysql的Binlog原理学习
 categories: Mysql
 description: Mysql的Binlog原理学习
-keywords:  Mysql,Binlog
+index_img: /img/post_def.png
+date: 2020-11-24 09:09:09
+tags: [Mysql,Binlog]
 ---
 ## 一、背景
 作为开发人员，mysql在开发过程中必不可少，有些公司，打击数据库账号权限控制做的不是很到位，因此，常常会有数据库、表被误删的情况。

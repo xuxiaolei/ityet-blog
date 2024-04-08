@@ -3,7 +3,9 @@ layout: post
 title: 解决Git Revert操作后再次Merge代码被冲掉的问题
 categories: Git
 description: Git Revert操作
-keywords: Git,Java
+index_img: /img/post_def.png
+date:  2021-10-14 09:09:09
+tags: [Git,Java]
 ---
 由于一次错误的代码合并操作dev\_cxn--->release--->master，导致还没有经过测试的代码被带到线上，并且在经历了几次其它分支的Merge后才发现线上代码有问题，当时想到两种解决办法：
 

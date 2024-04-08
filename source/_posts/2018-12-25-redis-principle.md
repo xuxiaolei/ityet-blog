@@ -3,7 +3,9 @@ layout: post
 title: Redis为什么这么快
 categories: redis
 description: Redis为什么这么快
-keywords:  redis
+index_img: /img/post_def.png
+date: 2018-12-25 09:09:09
+tags: [redis]
 ---
 
 工作中你肯定和 Redis 打过交道。Redis 为什么快，这点想必你也知道，至少为了面试也做过准备。很多人知道 Redis 快仅仅因为它是基于内存实现的，对于其它原因倒是模棱两可。

@@ -3,7 +3,9 @@ layout: post
 title: Docker容器化技术入门
 categories: Docker
 description: Docker容器化技术入门
-keywords: Docker
+index_img: /img/post_def.png
+date: 2019-05-23 09:09:09
+tags: [Docker]
 ---
 
 ![Docker](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f0545712925d441fafbd015e9ca50849~tplv-k3u1fbpfcp-watermark.image)

@@ -3,7 +3,9 @@ layout: post
 title: OpenVPN客户端证书合并到配置文件中
 categories: Tools
 description: OpenVPN客户端证书合并到配置文件中
-keywords: OpenVPN, Tools, 证书合并
+index_img: /img/post_def.png
+date: 2016-03-06 09:09:09
+tags: [OpenVPN, Tools, 证书合并]
 ---
 
 

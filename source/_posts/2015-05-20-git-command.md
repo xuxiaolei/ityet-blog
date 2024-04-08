@@ -3,7 +3,9 @@ layout: post
 title: Git常用命令和规范
 categories: Git
 description: Git常用命令和规范
-keywords: Git
+index_img: /img/post_def.png
+date: 2015-05-20 09:09:09
+tags: [Git]
 ---
 
 ### ssh key 配置

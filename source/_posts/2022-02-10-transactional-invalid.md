@@ -1,9 +1,11 @@
 ---
-layout:post
-title:Transactional 注解失效的3种原因及解决办法
-categories:Java
-description:Transactional 注解失效的3种原因及解决办法
-keywords:Transactional,Java
+layout: post
+title: Transactional注解失效的3种原因及解决办法
+categories: Java
+description: Transactional注解失效的3种原因及解决办法
+index_img: /img/post_def.png
+date: [2022-02-10 09:09:09]
+tags: [Transactional,Java]
 ---
 
 ## Transactional失效场景介绍

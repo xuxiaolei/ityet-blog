@@ -3,7 +3,9 @@ layout: post
 title: Mysql日常好习惯养成
 categories: Mysql
 description: Mysql日常好习惯养成
-keywords:  Mysql
+index_img: /img/post_def.png
+date: 2017-06-17 09:09:09
+tags: [Mysql]
 ---
 
 前言

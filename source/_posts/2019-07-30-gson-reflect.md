@@ -3,7 +3,9 @@ layout: post
 title: Gson反序列化泛型
 categories: Java
 description: Gson反序列化泛型
-keywords: Gson,Json
+index_img: /img/post_def.png
+date: 2019-07-30 09:09:09
+tags: [Gson,Json]
 ---
 
 公司内部微服务架构基础设，通常技术选型以Spring Cloud技术为主，也被大家俗称作“全家桶”。

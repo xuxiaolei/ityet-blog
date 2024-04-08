@@ -3,7 +3,9 @@ layout: post
 title: IntelliJ IDEA代码模版使用介绍
 categories: Java
 description: IntelliJ IDEA代码模版使用介绍
-keywords:  Java,IDEA
+index_img: /img/post_def.png
+date: 2019-08-11 09:09:09
+tags: [Java,IDEA]
 ---
 # 背景
 Intellij IDEA中的实时模板非常灵活且强大。你可以用它来极大提升代码的生产力

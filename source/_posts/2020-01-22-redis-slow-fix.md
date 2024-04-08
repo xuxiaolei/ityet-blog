@@ -3,7 +3,9 @@ layout: post
 title: Redis变慢了，如何快速排查？
 categories: Java
 description: Redis变慢了，如何快速排查？
-keywords: Redis
+index_img: /img/post_def.png
+date: 2020-01-22 09:09:09
+tags: [Redis]
 ---
 分析一下Redis在使用过程中，经常会遇到的数据延迟问题以及如何定位和分析，比如：Redis变慢了，你会怎么排查？
 

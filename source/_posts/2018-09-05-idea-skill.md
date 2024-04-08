@@ -3,7 +3,9 @@ layout: post
 title: IntelliJ-IDEA插件推荐
 categories: Tools
 description: IntelliJ-IDEA插件推荐
-keywords:  tools,idea,skill
+index_img: /img/post_def.png
+date: 2018-09-05 09:09:09
+tags: [tools,idea,skill]
 ---
 
 ### IntelliJ IDEA

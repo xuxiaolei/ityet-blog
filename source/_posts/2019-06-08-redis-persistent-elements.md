@@ -3,7 +3,9 @@ layout: post
 title: 一起看懂Redis两种持久化方式的原理
 categories: Redis
 description: 学习Redis两种持久化方式的原理
-keywords:  Java,Redis
+index_img: /img/post_def.png
+date: 2019-06-08 09:09:09
+tags: [Java,Redis]
 ---
 Redis为持久化提供了两种方式：
 

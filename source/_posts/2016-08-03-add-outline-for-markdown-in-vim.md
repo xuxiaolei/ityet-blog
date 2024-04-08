@@ -3,7 +3,9 @@ layout: post
 title: 在 Vim 里为 Markdown 文档展示导航窗格
 categories: Markdown
 description: 在一个很长的 Markdown 文档里要准确跳转到某标题并不容易，如果像 Word 那样有个导航窗格就好了。
-keywords: Vim, Markdown, Outline
+index_img: /img/post_def.png
+date: 2016-08-03 09:09:09
+tags: [Vim, Markdown, Outline]
 ---
 
 假设我们正在 Vim 里编辑一个很长的 Markdown 文档，这时想跳转到另一个章节去查看或编辑内容，可以怎么做？

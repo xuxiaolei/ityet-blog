@@ -3,7 +3,9 @@ layout: post
 title: MyBatis缓存机制了解
 categories: Java
 description: MyBatis缓存机制了解
-keywords: Java,Mybatis,缓存
+index_img: /img/post_def.png
+date: 2018-05-11 09:09:09
+tags: [Java,Mybatis,缓存]
 ---
 
 **目录**

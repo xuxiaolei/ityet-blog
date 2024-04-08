@@ -1,9 +1,10 @@
 ---
-layout post
-title  IIS支持.htaccess伪静态规则的配置教程
-categories Blog
-description IIS支持.htaccess伪静态规则的配置教程
-keywords htaccess, IIS,伪静态
+layout: post
+title: IIS支持htaccess伪静态规则的配置教程
+categories: Blog
+description: IIS支持htaccess伪静态规则的配置教程
+date: 2018-11-21 09:09:09
+tags: [htaccess, IIS,伪静态]
 ---
 
 第一步：下载IIS伪静态组件——ISAPI_Rewrite3  [点击下载](httpwww.jb51.netsofts41171.html)

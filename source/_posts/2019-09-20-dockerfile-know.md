@@ -3,7 +3,9 @@ layout: post
 title: Dockerfile命令详解
 categories: Docker
 description: Dockerfile命令详解
-keywords: Docker,Dockerfile
+index_img: /img/post_def.png
+date: 2019-09-20 09:09:09
+tags: [Docker,Dockerfile]
 ---
 
 制作Dockerfile是Docker入门的基础，在此学习并收集、整理了官网关于制作Dockerfile的全部命令。

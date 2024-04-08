@@ -3,7 +3,9 @@ layout: post
 title: Fluent和Mybatis,Mybatis Plus比较
 categories: Java
 description: Fluent Mybatis, 原生Mybatis, Mybatis Plus三者功能对比
-keywords:  Fluent,Java
+index_img: /img/post_def.png
+date: 2019-12-19 09:09:09
+tags: [Fluent,Java]
 ---
 最近在使用Mybatis Plus过程中用到了相关的"动态SQL构造"功能，不过使用起来总觉得不是很美观，硬编码比较多，通过搜索发现到了Fluent Mybatis，它的"动态SQL构造"比Mybatis Plus更为优雅。下面通过官方文档，做了相关学习了解。
 # Fluent Mybatis介绍和源码

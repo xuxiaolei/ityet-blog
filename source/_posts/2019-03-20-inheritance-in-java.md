@@ -3,7 +3,9 @@ layout: post
 title: 深入学习Java继承
 categories: Java
 description: 深入学习Java继承
-keywords:  Java,继承
+index_img: /img/post_def.png
+date: 2019-03-20 09:09:09
+tags: [Java,继承]
 ---
 
 在Java课堂中，所有老师不得不提到**面向对象**（Object Oriented），而在谈到面向对象的时候，又不得不提到面向对象的三大特征：封装、**继承**、多态。三大特征紧密联系而又有区别，本课程就带你学习Java的**继承**。

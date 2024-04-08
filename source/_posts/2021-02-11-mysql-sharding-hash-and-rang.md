@@ -3,7 +3,9 @@ layout: post
 title: Mysql分库分表扩容方案
 categories: mysql
 description: Mysql分库分表扩容方案
-keywords:  mysql
+index_img: /img/post_def.png
+date: 2021-02-11 09:09:09
+tags: [mysql]
 ---
 
 中大型项目中，一旦遇到数据量比较大，小伙伴应该都知道就应该对数据进行拆分了。**有垂直和水平两种**。

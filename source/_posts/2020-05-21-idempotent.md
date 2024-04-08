@@ -3,7 +3,9 @@ layout: post
 title: 高并发下如何保证接口的幂等性？
 categories: Java
 description: 高并发下如何保证接口的幂等性？
-keywords: 幂等
+index_img: /img/post_def.png
+date: 2020-05-21 09:09:09
+tags: [高并发,幂等]
 ---
 
 # 前言

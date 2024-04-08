@@ -3,7 +3,9 @@ layout: post
 title: 静态方法中的getResourceAsStream
 categories: Java
 description: 静态方法中的getResourceAsStream
-keywords: Java,Resource
+index_img: /img/post_def.png
+date: 2020-06-23 09:09:09
+tags: [Java,Resource]
 ---
 要以静态方法调用`getResourceAsStream` ，我们使用`ClassName.class`而不是`getClass()`
 

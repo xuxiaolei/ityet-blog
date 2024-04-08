@@ -3,7 +3,9 @@ layout: post
 title: Spring定时任务@Scheduled详解
 categories: Java
 description: Spring定时任务@Scheduled详解
-keywords: Spring,Scheduled
+index_img: /img/post_def.png
+date: 2021-01-22 09:09:09
+tags: [Spring,Scheduled]
 ---
 在springMVC里使用spring的定时任务非常的简单,可以使用@scheduled定时任务的两种方式，一种是直接@scheduled（cron=”0 0 0 ? * * “），还有一种是使用xml配置
 

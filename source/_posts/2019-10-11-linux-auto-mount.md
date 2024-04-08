@@ -3,7 +3,9 @@ layout: post
 title: Linux中设备挂载命令
 categories: Linux
 description: Linux中设备挂载命令
-keywords:  Linux
+index_img: /img/post_def.png
+date: 2019-10-11 09:09:09
+tags: [Linux]
 ---
 #### 1、查询与自动挂载
 

@@ -3,7 +3,9 @@ layout: post
 title: PropertySource配置方式深入了解
 categories: Java
 description: PropertySource配置方式深入了解
-keywords: PropertySource
+index_img: /img/post_def.png
+date: 2020-10-30 09:09:09
+tags: [PropertySource]
 ---
 ## @PropertySource功能
  

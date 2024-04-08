@@ -3,8 +3,9 @@ layout: post
 title: 加密后的数据如何进行模糊查询
 categories: mysql
 description: 加密后的数据查询
-keywords: mysql,Java
-date: 2022-09-25 09:09:09
+tags: [mysql,Java]
+index_img: /img/post_def.png
+date:  2022-09-25 09:09:09
 ---
 *   [如何对加密后的数据进行模糊查询]()
 
@@ -15,7 +16,7 @@ date: 2022-09-25 09:09:09
 *   [超神做法]()
 
 *   [总结]()
----
+
 
 我们知道加密后的数据对模糊查询不是很友好，本篇就针对加密数据模糊查询这个问题来展开讲一讲实现的思路，希望对大家有所启发。
 

@@ -1,9 +1,11 @@
 ---
-layout:post
-title:Mapstruct自定义转换规则
-categories:Java
-description:Mapstruct自定义转换规则
-keywords:Mapstruct,Java
+layout: post
+title: Mapstruct自定义转换规则
+categories: Java
+description: Mapstruct自定义转换规则
+index_img: /img/post_def.png
+date: 2021-07-10 09:09:09
+tags: [Mapstruct,Java]
 ---
 
 ## Mapstruct自定义转换规则

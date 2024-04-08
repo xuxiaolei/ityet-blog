@@ -3,7 +3,9 @@ layout: post
 title: IDEA Debug调试小技巧
 categories: Tools
 description: IDEA Debug调试小技巧
-keywords:  IDEA
+index_img: /img/post_def.png
+date: 2019-09-08 09:09:09
+tags: [IDEA]
 ---
 # 一、多线程调试断点
 

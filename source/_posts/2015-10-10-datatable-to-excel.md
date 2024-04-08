@@ -3,7 +3,9 @@ layout: post
 title: C#DataTableToExcel方法
 categories: C#
 description: C#DataTableToExcel方法
-keywords: C#,.Net,DataTableToExcel
+index_img: /img/post_def.png
+date: 2015-10-10 09:09:09
+tags: [C#,.Net,DataTableToExcel]
 ---
 
 ** 最简单的XML格式Excel表格文件当然，还有几个地方是可以删除掉的内容，但是这样就有些破坏完整性了。这个文档的作用就是从XML数据源中导出数据之后，使用XSLT转换也可以把数据导出。 

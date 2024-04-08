@@ -3,7 +3,9 @@ layout: post
 title: Mybatis Generator完整配置详解
 categories: Java
 description: Mybatis Generator完整配置详解
-keywords: Java,Mybatis,Config
+index_img: /img/post_def.png
+date: 2016-12-11 09:09:09
+tags: [Java,Mybatis,Config]
 ---
 
 Mybatis Generator作为应用最为广泛的代码生产插件，经过查阅资料，整理了以下比较完整配置详解

@@ -3,7 +3,9 @@ layout: post
 title: Mysql常规调优方案
 categories: Mysql
 description: Mysql常规调优方案
-keywords:  Mysql
+index_img: /img/post_def.png
+date: 2017-06-18 09:09:09
+tags: [Mysql]
 ---
 
 对于MySQL层优化一般遵从五个原则：

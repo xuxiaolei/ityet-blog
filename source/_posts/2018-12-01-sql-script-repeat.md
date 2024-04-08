@@ -3,7 +3,9 @@ layout: post
 title: Mysql脚本可重复执行语法
 categories: mysql
 description: Mysql脚本可重复执行语法
-keywords:  mysql
+index_img: /img/post_def.png
+date: 2018-12-01 09:09:09
+tags: [mysql]
 ---
 
 # 前言

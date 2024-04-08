@@ -3,7 +3,9 @@ layout: post
 title: Intellij IDEA集成JProfiler性能分析
 categories: Java
 description: Intellij IDEA集成JProfiler性能分析
-keywords:  Intellij,IDEA,JProfiler,性能分析
+index_img: /img/post_def.png
+date: 2020-11-11 09:09:09
+tags: [Intellij,IDEA,JProfiler,性能分析]
 ---
 
 Jprofiler是用于分析J2EE软件性能瓶颈并准确定位到java类或者方法并有效解决性能问题的主流工具，它通常需要与性能测试工具如LoadRunner配合使用，因为往往只用当系统处于压力状态下才能反映出性能问题。

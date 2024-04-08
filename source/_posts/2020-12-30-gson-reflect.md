@@ -3,7 +3,9 @@ layout: post
 title: Gson反序列化泛型
 categories: Java
 description: Gson反序列化泛型
-keywords: Gson,Json
+index_img: /img/post_def.png
+date: 2019-07-30 09:09:09
+tags: [Gson,Json]
 ---
 
 Java对象和Json之间的互转，一般用的比较多的两个类库是Jackson和Gson，下面记录一下Gson的学习使用。

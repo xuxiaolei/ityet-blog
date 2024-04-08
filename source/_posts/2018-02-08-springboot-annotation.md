@@ -3,7 +3,9 @@ layout: post
 title: SpringBoot注解整理汇总
 categories: Java
 description: SpringBoot注解整理汇总
-keywords:  Java,SpringBoot
+index_img: /img/post_def.png
+date: 2018-02-08 09:09:09
+tags: [Java,SpringBoot]
 ---
 使用注解的优势：
 

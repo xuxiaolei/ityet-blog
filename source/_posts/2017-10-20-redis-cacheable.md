@@ -3,7 +3,9 @@ layout: post
 title: 无侵入代码方式使用Redis实现缓存功能
 categories: Redis
 description: 无侵入代码方式使用Redis实现缓存功能
-keywords:  Redis
+index_img: /img/post_def.png
+date: 2017-10-20 09:09:09
+tags: [Redis]
 ---
 
 # 前言

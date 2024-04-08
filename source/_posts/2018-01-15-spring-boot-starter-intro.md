@@ -3,7 +3,9 @@ layout: post
 title: SpringBoot原理分析
 categories: Java
 description: SpringBoot原理分析
-keywords:  SpringBoot
+index_img: /img/post_def.png
+date: 2018-01-15 09:09:09
+tags: [SpringBoot]
 ---
 
 ## **通过SpringBoot源码分析，讲述启动原理**

@@ -3,7 +3,9 @@ layout: post
 title: Redis使用规范
 categories: redis
 description: Redis使用规范
-keywords: redis
+index_img: /img/post_def.png
+date: 2019-06-13 09:09:09
+tags: [redis]
 ---
 Redis作为高性能的内存数据库，在大数据量的情况下也会遇到性能瓶颈，日常开发中只有时刻谨记优化铁则，才能使得Redis性能发挥到极致。
 

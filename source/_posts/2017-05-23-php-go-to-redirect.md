@@ -3,7 +3,9 @@ layout: post
 title: PHP给网站添加外链go跳转效果
 categories: PHP
 description: PHP给网站添加外链go跳转效果
-keywords:  PHP,WORDPRESS
+index_img: /img/post_def.png
+date: 2017-05-23 09:09:09
+tags: [PHP,WORDPRESS]
 ---
 > 给网站添加外链go跳转效果既美观又可避免权重流失，确实是一个不错的功能。有的主题自带go跳转，但是别的主题不一定有，所以想要移植这个功能，其实也还蛮简单的，这里简单分享下这个实现方法。
 

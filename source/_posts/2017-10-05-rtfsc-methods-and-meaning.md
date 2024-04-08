@@ -3,7 +3,9 @@ layout: post
 title: 阅读源码的意义与方法
 categories: Learning
 description: 阅读源码不是唯一的学习方法，但是是很重要的学习方法。
-keywords: skill,源码, rtfsc
+index_img: /img/post_def.png
+date: 2017-10-05 09:09:09
+tags: [skill,源码, rtfsc]
 ---
 
 ## 意义

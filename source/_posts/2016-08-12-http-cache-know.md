@@ -3,7 +3,9 @@ layout: post
 title: 浏览器 HTTP 协议缓存机制详解
 categories: C#
 description: 浏览器 HTTP 协议缓存机制详解
-keywords: Etag,浏览器缓存
+index_img: /img/post_def.png
+date: 2016-08-12 09:09:09
+tags: [Etag,浏览器缓存]
 ---
 
 最近在优化服务和前端缓存处理上，经同事推荐使用了etag，同时也深入了解了一下HTTP 协议缓存机制。查了一些资料整理出来作为备忘。
