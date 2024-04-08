@@ -1,8 +1,8 @@
 ---
 layout:post
-title:Mapstruct自定义转换规则
-categories:Java
-description:Mapstruct自定义转换规则
+title: Mapstruct自定义转换规则
+categories: Java
+description: Mapstruct自定义转换规则
 keywords:Mapstruct,Java
 ---
 
