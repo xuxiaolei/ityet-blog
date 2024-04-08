@@ -1,8 +1,8 @@
 ---
 layout:post 
-title: Transactional碰到锁引发的问题
-categories: Java 
-description: Transactional碰到锁引发的问题
+title:Transactional碰到锁引发的问题
+categories:Java 
+description:Transactional碰到锁引发的问题
 keywords:Transactional,Java
 ---
 
