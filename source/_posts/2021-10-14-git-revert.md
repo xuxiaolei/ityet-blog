@@ -3,7 +3,6 @@ layout: post
 title: 解决Git Revert操作后再次Merge代码被冲掉的问题
 categories: Git
 description: Git Revert操作
-index_img: /img/post_def.png
 date:  2021-10-14 09:09:09
 tags: [Git,Java]
 ---
