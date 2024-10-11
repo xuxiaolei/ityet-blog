@@ -7,3 +7,8 @@ public/
 .deploy*/
 _multiconfig.yml
 /.idea/
+.idea/
+.vscode/
+*.iml
+package-lock.json
+*.lock
