@@ -3,7 +3,7 @@ layout: post
 title: Docker容器化技术入门
 categories: Docker
 description: Docker容器化技术入门
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-05-23 09:09:09
 tags: [Docker]
 ---

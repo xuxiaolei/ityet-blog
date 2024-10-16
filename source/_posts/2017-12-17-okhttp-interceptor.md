@@ -3,7 +3,7 @@ layout: post
 title: OkHttp 拦截器应用
 categories: Java
 description: OkHttp 拦截器应用
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2017-12-17 09:09:09
 tags: [Java,OkHttp,Interceptor]
 ---

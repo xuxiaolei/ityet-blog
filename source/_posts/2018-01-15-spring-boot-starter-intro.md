@@ -3,7 +3,7 @@ layout: post
 title: SpringBoot原理分析
 categories: Java
 description: SpringBoot原理分析
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2018-01-15 09:09:09
 tags: [SpringBoot]
 ---

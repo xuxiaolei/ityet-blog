@@ -3,7 +3,7 @@ layout: post
 title: 浏览器 HTTP 协议缓存机制详解
 categories: C#
 description: 浏览器 HTTP 协议缓存机制详解
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2016-08-12 09:09:09
 tags: [Etag,浏览器缓存]
 ---

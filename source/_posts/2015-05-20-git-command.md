@@ -3,7 +3,7 @@ layout: post
 title: Git常用命令和规范
 categories: Git
 description: Git常用命令和规范
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2015-05-20 09:09:09
 tags: [Git]
 ---

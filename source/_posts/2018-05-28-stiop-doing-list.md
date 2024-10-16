@@ -3,7 +3,7 @@ layout: post
 title: 从现在起，你要停止对自己做的 30 件事
 categories: Blog
 description: 从现在起，你要停止对自己做的 30 件事
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2018-05-28 09:09:09
 tags: [自律]
 ---

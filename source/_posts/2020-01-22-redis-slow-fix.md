@@ -3,7 +3,7 @@ layout: post
 title: Redis变慢了，如何快速排查？
 categories: Java
 description: Redis变慢了，如何快速排查？
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2020-01-22 09:09:09
 tags: [Redis]
 ---

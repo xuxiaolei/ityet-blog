@@ -3,7 +3,7 @@ layout: post
 title: Mysql常规调优方案
 categories: Mysql
 description: Mysql常规调优方案
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2017-06-18 09:09:09
 tags: [Mysql]
 ---

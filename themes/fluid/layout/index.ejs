@@ -10,10 +10,19 @@ page.banner_mask_alpha = theme.index.banner_mask_alpha
 <% page.posts.each(function (post) { %>
   <div class="row mx-auto index-card">
     <% var post_url = url_for(post.path), index_img = post.index_img || theme.post.default_index_img %>
+    <% var randomImageStart = 0, randomImageEnd = 20; %>
+    <% var randomImageNumber = Math.floor(Math.random() * (randomImageEnd - randomImageStart + 1)) + randomImageStart; %>
+    <% var randomImage = `/img/cartoon${randomImageNumber.toString().padStart(3, '0')}.jpg`; %>
     <% if (index_img) { %>
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="<%= post_url %>" target="<%- theme.index.post_url_target %>">
           <img src="<%= url_for(index_img) %>" alt="<%= post.title %>">
+        </a>
+      </div>
+    <% } else { %>
+      <div class="col-12 col-md-4 m-auto index-img">
+        <a href="<%= post_url %>" target="<%- theme.index.post_url_target %>">
+          <img src="<%= randomImage %>" alt="<%= post.title %>">
         </a>
       </div>
     <% } %>

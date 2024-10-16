@@ -3,7 +3,7 @@ layout: post
 title: PHP给网站添加外链go跳转效果
 categories: PHP
 description: PHP给网站添加外链go跳转效果
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2017-05-23 09:09:09
 tags: [PHP,WORDPRESS]
 ---

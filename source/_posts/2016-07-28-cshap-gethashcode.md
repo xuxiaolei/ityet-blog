@@ -3,7 +3,7 @@ layout: post
 title: C#中相同string的GetHashCode() 值不一样详解
 categories: C#
 description: C#中相同string的GetHashCode() 值不一样详解
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2016-07-28 09:09:09
 tags: [C#, GetHashCode]
 ---

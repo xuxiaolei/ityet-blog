@@ -3,7 +3,7 @@ layout: post
 title: Redis使用规范
 categories: redis
 description: Redis使用规范
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-06-13 09:09:09
 tags: [redis]
 ---

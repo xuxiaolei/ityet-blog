@@ -3,7 +3,7 @@ layout: post
 title: Mysql脚本可重复执行语法
 categories: mysql
 description: Mysql脚本可重复执行语法
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2018-12-01 09:09:09
 tags: [mysql]
 ---

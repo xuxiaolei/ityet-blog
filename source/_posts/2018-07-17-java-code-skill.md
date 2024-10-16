@@ -3,7 +3,7 @@ layout: post
 title: 提高效率的Java代码小技巧
 categories: Java
 description: Java代码小技巧帮你提高开发效率
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2018-07-17 09:09:09
 tags: [Java]
 ---

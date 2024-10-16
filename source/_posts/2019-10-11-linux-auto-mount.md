@@ -3,7 +3,7 @@ layout: post
 title: Linux中设备挂载命令
 categories: Linux
 description: Linux中设备挂载命令
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-10-11 09:09:09
 tags: [Linux]
 ---

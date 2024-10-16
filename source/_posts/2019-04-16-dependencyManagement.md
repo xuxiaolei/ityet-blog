@@ -3,7 +3,7 @@ layout: post
 title: Maven中dependencyManagement标签学习
 categories: Java
 description: Maven中dependencyManagement标签学习
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-04-16 09:09:09
 tags: [Java,pom,dependencyManagement]
 ---

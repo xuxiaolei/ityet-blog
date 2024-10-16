@@ -3,7 +3,7 @@ layout: post
 title: Fluent和Mybatis,Mybatis Plus比较
 categories: Java
 description: Fluent Mybatis, 原生Mybatis, Mybatis Plus三者功能对比
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-12-19 09:09:09
 tags: [Fluent,Java]
 ---

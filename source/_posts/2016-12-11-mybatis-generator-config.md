@@ -3,7 +3,7 @@ layout: post
 title: Mybatis Generator完整配置详解
 categories: Java
 description: Mybatis Generator完整配置详解
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2016-12-11 09:09:09
 tags: [Java,Mybatis,Config]
 ---

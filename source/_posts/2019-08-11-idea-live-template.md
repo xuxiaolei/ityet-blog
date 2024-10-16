@@ -3,7 +3,7 @@ layout: post
 title: IntelliJ IDEA代码模版使用介绍
 categories: Java
 description: IntelliJ IDEA代码模版使用介绍
-index_img: https://xn--6or.us.kg/api/?raw
+index_img: /img/post_def.png
 date: 2019-08-11 09:09:09
 tags: [Java,IDEA]
 ---
