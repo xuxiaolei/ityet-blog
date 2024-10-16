@@ -3,7 +3,7 @@ layout: post
 title: Git指定文件提交和指定拉取详解
 categories: Git
 description: GitSparseCheckout
-index_img: /img/post_def.png
+index_img:  https://xn--6or.us.kg/api
 date: 2024-04-06 10:00:00
 tags: [Git]
 ---
