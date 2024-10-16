@@ -3,7 +3,7 @@ layout: post
 title: 高并发限流之漏桶算法和令牌桶算法学习
 categories: Java
 description: 高并发限流之漏桶算法和令牌桶算法学习
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2019-09-22 09:09:09
 tags: [Java,高并发,漏桶算法,令牌桶算法]
 ---

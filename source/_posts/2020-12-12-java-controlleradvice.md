@@ -3,7 +3,7 @@ layout: post
 title: SpringMVC 中 @ControllerAdvice 注解的三种使用场景
 categories: Java
 description: SpringMVC 中 @ControllerAdvice 注解的三种使用场景
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2020-12-12 09:09:09
 tags: [SpringMVC,ControllerAdvice,注解]
 ---

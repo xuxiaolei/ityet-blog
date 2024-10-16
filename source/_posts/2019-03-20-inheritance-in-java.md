@@ -3,7 +3,7 @@ layout: post
 title: 深入学习Java继承
 categories: Java
 description: 深入学习Java继承
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2019-03-20 09:09:09
 tags: [Java,继承]
 ---

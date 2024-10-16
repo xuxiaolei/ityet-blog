@@ -3,7 +3,7 @@ layout: post
 title: Transactional碰到锁引发的问题
 categories: Java 
 description: Transactional碰到锁引发的问题
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: [2022-02-11 09:09:09]
 tags: [Transactional,Java]
 ---

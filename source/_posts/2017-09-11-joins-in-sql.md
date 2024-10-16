@@ -3,7 +3,7 @@ layout: post
 title: 图解 SQL 里的各种 JOIN
 categories: Database
 description: 用文氏图和示例来理解 SQL 里的各种 JOIN。
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2017-09-11 09:09:09
 tags: [SQL, Database, 文氏图]
 ---

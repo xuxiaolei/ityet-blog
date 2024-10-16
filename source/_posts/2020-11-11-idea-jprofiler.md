@@ -3,7 +3,7 @@ layout: post
 title: Intellij IDEA集成JProfiler性能分析
 categories: Java
 description: Intellij IDEA集成JProfiler性能分析
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2020-11-11 09:09:09
 tags: [Intellij,IDEA,JProfiler,性能分析]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Java 对象释放与 finalize 方法
 categories: Java
 description: 关于 Java 对象释放的疑惑解答，以及 finalize 方法的相关知识。
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2015-12-15 09:09:09
 tags: [java, finalize, release]
 ---

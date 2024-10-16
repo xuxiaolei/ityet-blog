@@ -3,7 +3,7 @@ layout: post
 title: Synchronized 偏向锁、轻量级锁学习笔记
 categories: Java
 description: Synchronized 偏向锁、轻量级锁学习笔记
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2019-05-11 09:09:09
 tags: [Java,Synchronized,偏向锁,轻量级]
 ---

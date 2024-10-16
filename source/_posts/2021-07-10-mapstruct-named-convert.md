@@ -3,7 +3,7 @@ layout: post
 title: Mapstruct自定义转换规则
 categories: Java
 description: Mapstruct自定义转换规则
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2021-07-10 09:09:09
 tags: [Mapstruct,Java]
 ---

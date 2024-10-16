@@ -3,7 +3,7 @@ layout: post
 title: IntelliJ-IDEA快速生成序列图
 categories: Tools
 description: IntelliJ-IDEA快速生成序列图
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2018-10-15 09:09:09
 tags: [tools,idea,skill]
 ---

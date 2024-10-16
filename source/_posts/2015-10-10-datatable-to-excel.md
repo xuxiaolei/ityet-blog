@@ -3,7 +3,7 @@ layout: post
 title: C#DataTableToExcel方法
 categories: C#
 description: C#DataTableToExcel方法
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2015-10-10 09:09:09
 tags: [C#,.Net,DataTableToExcel]
 ---

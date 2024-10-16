@@ -3,7 +3,7 @@ layout: post
 title: Java必会的工具库，让你的代码量减少90%
 categories: Java
 description: Java必会的工具库，让你的代码量减少90%
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2021-04-18 09:09:09
 tags: [Java]
 ---

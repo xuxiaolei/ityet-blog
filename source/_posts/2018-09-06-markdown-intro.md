@@ -3,7 +3,7 @@ layout: post
 title: 一份简明的 Markdown 笔记与教程
 categories: Markdown
 description: 一份简明的 Markdown 笔记与教程
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2018-09-06 09:09:09
 tags: [Markdown, VSCode]
 ---

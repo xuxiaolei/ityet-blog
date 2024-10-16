@@ -3,7 +3,7 @@ layout: post
 title: Java Lambda表达式和Stream流操作
 categories: Java
 description: Java Lambda表达式和Stream流操作
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2017-09-20 09:09:09
 tags: [Java]
 ---

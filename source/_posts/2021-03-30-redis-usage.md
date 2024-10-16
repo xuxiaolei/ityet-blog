@@ -3,7 +3,7 @@ layout: post
 title: Redis多种场景应用
 categories: Redis
 description: 以为redis只能做缓存的话，那就太小看它了
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2021-03-30 09:09:09
 tags: [Redis]
 ---

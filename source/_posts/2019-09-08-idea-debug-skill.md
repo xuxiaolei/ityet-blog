@@ -3,7 +3,7 @@ layout: post
 title: IDEA Debug调试小技巧
 categories: Tools
 description: IDEA Debug调试小技巧
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2019-09-08 09:09:09
 tags: [IDEA]
 ---

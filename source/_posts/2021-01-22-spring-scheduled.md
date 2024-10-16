@@ -3,7 +3,7 @@ layout: post
 title: Spring定时任务@Scheduled详解
 categories: Java
 description: Spring定时任务@Scheduled详解
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2021-01-22 09:09:09
 tags: [Spring,Scheduled]
 ---

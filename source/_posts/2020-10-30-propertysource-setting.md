@@ -3,7 +3,7 @@ layout: post
 title: PropertySource配置方式深入了解
 categories: Java
 description: PropertySource配置方式深入了解
-index_img: /img/post_def.png
+index_img: https://xn--6or.us.kg/api/?raw
 date: 2020-10-30 09:09:09
 tags: [PropertySource]
 ---
