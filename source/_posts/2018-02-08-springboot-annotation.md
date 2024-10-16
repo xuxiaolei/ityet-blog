@@ -3,7 +3,7 @@ layout: post
 title: SpringBoot注解整理汇总
 categories: Java
 description: SpringBoot注解整理汇总
-index_img: /img/post_def.png
+index_img: 
 date: 2018-02-08 09:09:09
 tags: [Java,SpringBoot]
 ---

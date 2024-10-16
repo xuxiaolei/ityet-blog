@@ -3,7 +3,7 @@ layout: post
 title: 在 Vim 里为 Markdown 文档展示导航窗格
 categories: Markdown
 description: 在一个很长的 Markdown 文档里要准确跳转到某标题并不容易，如果像 Word 那样有个导航窗格就好了。
-index_img: /img/post_def.png
+index_img: 
 date: 2016-08-03 09:09:09
 tags: [Vim, Markdown, Outline]
 ---

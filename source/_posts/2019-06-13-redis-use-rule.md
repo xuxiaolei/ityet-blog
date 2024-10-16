@@ -3,7 +3,7 @@ layout: post
 title: Redis使用规范
 categories: redis
 description: Redis使用规范
-index_img: /img/post_def.png
+index_img: 
 date: 2019-06-13 09:09:09
 tags: [redis]
 ---

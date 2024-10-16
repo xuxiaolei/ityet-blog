@@ -3,7 +3,7 @@ layout: post
 title: 一起看懂Redis两种持久化方式的原理
 categories: Redis
 description: 学习Redis两种持久化方式的原理
-index_img: /img/post_def.png
+index_img: 
 date: 2019-06-08 09:09:09
 tags: [Java,Redis]
 ---

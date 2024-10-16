@@ -3,7 +3,7 @@ layout: post
 title: Maven依赖机制与调节方案
 categories: Maven
 description: Maven进阶指南：依赖机制与调节方案
-index_img: /img/post_def.png
+index_img: 
 date:  2021-06-12 09:09:09
 tags: [Maven,Java]
 ---

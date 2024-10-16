@@ -3,7 +3,7 @@ layout: post
 title: Redis为什么这么快
 categories: redis
 description: Redis为什么这么快
-index_img: /img/post_def.png
+index_img: 
 date: 2018-12-25 09:09:09
 tags: [redis]
 ---

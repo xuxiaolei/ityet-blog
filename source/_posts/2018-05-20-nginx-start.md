@@ -3,7 +3,7 @@ layout: post
 title: Nginx学习笔记
 categories: nginx
 description: Nginx学习笔记
-index_img: /img/post_def.png
+index_img: 
 date: 2018-05-20 09:09:09
 tags: [nginx]
 ---

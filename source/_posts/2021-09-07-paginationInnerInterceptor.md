@@ -3,7 +3,7 @@ layout: post
 title: MybatisPlus多数据源分页
 categories: Java
 description: MybatisPlus多数据源分页
-index_img: /img/post_def.png
+index_img: 
 date:  2021-09-07 09:09:09
 tags: [MybatisPlus,Java]
 ---

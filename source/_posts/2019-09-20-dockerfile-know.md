@@ -3,7 +3,7 @@ layout: post
 title: Dockerfile命令详解
 categories: Docker
 description: Dockerfile命令详解
-index_img: /img/post_def.png
+index_img: 
 date: 2019-09-20 09:09:09
 tags: [Docker,Dockerfile]
 ---

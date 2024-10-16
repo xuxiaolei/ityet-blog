@@ -3,7 +3,7 @@ layout: post
 title: Gson反序列化泛型
 categories: Java
 description: Gson反序列化泛型
-index_img: /img/post_def.png
+index_img: 
 date: 2019-07-30 09:09:09
 tags: [Gson,Json]
 ---

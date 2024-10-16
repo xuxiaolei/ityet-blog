@@ -3,7 +3,7 @@ layout: post
 title: Mysql分库分表扩容方案
 categories: mysql
 description: Mysql分库分表扩容方案
-index_img: /img/post_def.png
+index_img: 
 date: 2021-02-11 09:09:09
 tags: [mysql]
 ---

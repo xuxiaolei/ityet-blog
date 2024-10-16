@@ -3,7 +3,7 @@ layout: post
 title: C++ 程序员的 Java 指南
 categories: Java
 description: 一个 C++ 程序员自己总结的 Java 学习中应该注意的点。
-index_img: /img/post_def.png
+index_img: 
 date: 2017-11-22 09:09:09
 tags: [C++, Java]
 ---

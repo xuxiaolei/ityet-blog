@@ -3,7 +3,7 @@ layout: post
 title: 关于 Markdown 的一些奇技淫巧
 categories: Markdown
 description: 介绍 Markdown 的一些高级用法。
-index_img: /img/post_def.png
+index_img: 
 date: 2017-09-01 09:09:09
 tags: [Markdown, 奇技淫巧]
 ---

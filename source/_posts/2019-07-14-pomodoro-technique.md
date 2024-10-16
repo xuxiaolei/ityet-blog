@@ -3,7 +3,7 @@ layout: post
 title: 番茄工作法让你远离拖延和焦虑
 categories: Blog
 description: 番茄工作法让你远离拖延和焦虑。
-index_img: /img/post_def.png
+index_img: 
 date: 2019-07-14 09:09:09
 tags: [番茄工作法, PDCA]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: git cherry-pick 学习笔记
 categories: Java
 description: git cherry-pick
-index_img: /img/post_def.png
+index_img: 
 date: 2019-03-11 09:09:09
 tags: [git,cherry-pick]
 ---

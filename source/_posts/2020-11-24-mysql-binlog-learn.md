@@ -3,7 +3,7 @@ layout: post
 title: Mysql的Binlog原理学习
 categories: Mysql
 description: Mysql的Binlog原理学习
-index_img: /img/post_def.png
+index_img: 
 date: 2020-11-24 09:09:09
 tags: [Mysql,Binlog]
 ---

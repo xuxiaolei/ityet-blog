@@ -11,7 +11,7 @@ page.banner_mask_alpha = theme.index.banner_mask_alpha
   <div class="row mx-auto index-card">
     <% var randomImageStart = 0, randomImageEnd = 20; %>
     <% var randomImageNumber = Math.floor(Math.random() * (randomImageEnd - randomImageStart + 1)) + randomImageStart; %>
-    <% var randomImage = '/img/cartoon${randomImageNumber.toString().padStart(3, '0')}.jpg'; %>
+    <% var randomImage = `/img/cartoon${randomImageNumber.toString().padStart(3, '0')}.jpg`; %>
     <% var post_url = url_for(post.path), index_img = post.index_img || randomImage %>
     <% if (index_img) { %>
       <div class="col-12 col-md-4 m-auto index-img">

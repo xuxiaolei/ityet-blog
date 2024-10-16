@@ -3,7 +3,7 @@ layout: post
 title: 静态方法中的getResourceAsStream
 categories: Java
 description: 静态方法中的getResourceAsStream
-index_img: /img/post_def.png
+index_img: 
 date: 2020-06-23 09:09:09
 tags: [Java,Resource]
 ---

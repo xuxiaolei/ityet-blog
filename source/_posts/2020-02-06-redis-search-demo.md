@@ -3,7 +3,7 @@ layout: post
 title: 使用Redis实现一个轻量级的搜索引擎
 categories: Redis
 description: 使用Redis实现一个轻量级的搜索引擎
-index_img: /img/post_def.png
+index_img: 
 date: 2020-02-06 09:09:09
 tags: [Redis,Search]
 ---

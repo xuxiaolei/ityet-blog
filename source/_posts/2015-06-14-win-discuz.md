@@ -3,7 +3,7 @@ layout: post
 title: Win7 下部署 Discuz!
 categories: PHP
 description: 在 Win7 下部署 Discuz! 的详细步骤。
-index_img: /img/post_def.png
+index_img: 
 date: 2015-06-14 09:09:09
 tags: [PHP, Discuz]
 ---
