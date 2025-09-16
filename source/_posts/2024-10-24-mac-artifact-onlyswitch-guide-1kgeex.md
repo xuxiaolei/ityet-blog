@@ -73,4 +73,67 @@ OnlySwitch适用于广泛的日常工作与生活场景。对于开发者来说�
 ps -ef | grep -v grep | grep -q 'Pixel_3A' && echo 1 || echo 0
 ```
 
+## 4.其它举例
+### 4.1.FRP启动
+开启命令：
+```shell
+nohup /Users/edy/Documents/frp/frpc -c /Users/edy/Documents/frp/frpc.toml >> /Users/edy/Documents/frp/frpc.log 2>&1 &
+```
+注意:配置文件和日志最好指定绝对路径，避免启动失败
+
+关闭命令：
+```shell
+pkill -9 -f '/Users/edy/Documents/frp/frpc' 2>&1 &
+```
+
+检查状态：
+```shell
+ps -ef | grep -v grep | grep -q '/Users/edy/Documents/frp/frpc' && echo 1 || echo 0
+```
+
+### 4.2.启动Nodejs应用
+开启命令：
+```shell
+nohup sh /Users/edy/Documents/scripts/startwhale.sh > /Users/edy/Documents/scripts/startwhale.log 2>&1 &
+```
+
+关闭命令：
+```shell
+pkill -9 -f '/Users/edy/Documents/frp/frpc' 2>&1 &
+```
+
+检查状态：
+```shell
+ps -ef | grep -v grep | grep -q '/usr/local/bin/node /Users/edy/IdeaProjects/whale-cloud-frontend/node_modules/umi/bin/forkedDev.js' && echo 1 || echo 0
+```
+
+附：shell启动脚本，因为启动过程复杂所以用shell脚本文件
+```shell
+#!/bin/bash
+
+# dev.sh – 先 git pull，再 npm run dev
+export PATH="/bin:/usr/local/bin:/opt/homebrew/bin"   # 根据你 which 出来的路径调整
+
+set -e  # 任何一步出错立即退出
+
+PROJECT_DIR="/Users/edy/IdeaProjects/whale-cloud-frontend"
+
+echo ">>> 进入项目目录：$PROJECT_DIR"
+cd "$PROJECT_DIR"
+
+# echo ">>> 拉取最新代码"
+git pull --rebase --autostash
+
+# echo ">>> 安装依赖（如有更新）"
+cnpm ci --silent
+
+echo ">>> 启动开发服务器"
+npm run dev &
+DEV_PID=$!                 # 记录后台进程的 PID
+echo $DEV_PID > /Users/edy/Documents/scripts/.whale-cloud.pid   # 可选：写到文件，方便别处 kill
+
+echo ">>> dev server PID=$DEV_PID 已启动"
+echo ">>> 想停止时执行：kill $DEV_PID"
+```
+ 
 ‍
